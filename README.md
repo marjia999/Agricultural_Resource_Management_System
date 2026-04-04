@@ -1,6 +1,6 @@
 # Agricultural Resource Management System
 
-AgriRMS is a full-stack web application designed to streamline agricultural resource management. It provides separate interfaces for administrators and clients to manage resources, submit service requests, schedule logistics, and process payments.
+AgriRMS is a full-stack web application designed to manage agricultural resources. It provides separate interfaces for administrators and clients to manage resources, submit service requests, schedule logistics, and process payments.
 
 ## User Roles
 
