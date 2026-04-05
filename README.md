@@ -11,7 +11,7 @@ Client - Can view personal dashboard, submit service requests for resources, tra
 ## Features
 
 1. Homepage: Interactive homepage for admin and cliens.
-   ![Homepage](https://raw.githubusercontent.com/marjia999/Agricultural_Resource_Management_System/blob/main/screenshots/Home.png)
+   ![Homepage](https://github.com/marjia999/Agricultural_Resource_Management_System/blob/43924cabbefbd349f0c4bcb593adf504f7a2ac5e/screenshots/Home.png)
    
 1. Admin Dashboard: Real-time statistics showing total resources, clients, and service requests with quick actions for common tasks and recent activity monitoring.
 
