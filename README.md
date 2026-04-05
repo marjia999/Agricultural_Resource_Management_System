@@ -11,9 +11,23 @@ Client - Can view personal dashboard, submit service requests for resources, tra
 ## Features
 
 1. Homepage: Interactive homepage for admin and cliens.
-   ![Homepage](https://github.com/marjia999/Agricultural_Resource_Management_System/blob/43924cabbefbd349f0c4bcb593adf504f7a2ac5e/screenshots/Home.png)
    
-1. Admin Dashboard: Real-time statistics showing total resources, clients, and service requests with quick actions for common tasks and recent activity monitoring.
+![Homepage](https://github.com/marjia999/Agricultural_Resource_Management_System/blob/43924cabbefbd349f0c4bcb593adf504f7a2ac5e/screenshots/Home.png)
+![Homepage](https://github.com/marjia999/Agricultural_Resource_Management_System/blob/6da4ceff0e4b4ebf54d36cecbfa9236ea4845add/screenshots/Home2.png)
+![Homepage](https://github.com/marjia999/Agricultural_Resource_Management_System/blob/6da4ceff0e4b4ebf54d36cecbfa9236ea4845add/screenshots/Home3.png)
+![Homepage](https://github.com/marjia999/Agricultural_Resource_Management_System/blob/6da4ceff0e4b4ebf54d36cecbfa9236ea4845add/screenshots/Home4.png)
+![Homepage](https://github.com/marjia999/Agricultural_Resource_Management_System/blob/6da4ceff0e4b4ebf54d36cecbfa9236ea4845add/screenshots/Home5.png)
+
+2. Login:
+   
+![Homepage](https://github.com/marjia999/Agricultural_Resource_Management_System/blob/6da4ceff0e4b4ebf54d36cecbfa9236ea4845add/screenshots/Login.png)
+
+3. Registration:
+   
+![Homepage](https://github.com/marjia999/Agricultural_Resource_Management_System/blob/6da4ceff0e4b4ebf54d36cecbfa9236ea4845add/screenshots/Register.png)
+
+   
+4. Admin Dashboard: Real-time statistics showing total resources, clients, and service requests with quick actions for common tasks and recent activity monitoring.
 
 2. Resource Management: Add new resources with name, type, price, and quantity. Update resource status between Available, In Use, and Maintenance. Track maintenance schedules and delete resources when needed.
 
