@@ -43,3 +43,6 @@ Client - Can view personal dashboard, submit service requests for resources, tra
 - **Backend:** PHP  
 - **Database:** MySQL
 
+# Contact
+- **Email**: marjiakhatun.my@gmail.com
+- **LinkedIn**: https://www.linkedin.com/in/marjia-khatun/
