@@ -787,7 +787,7 @@
                     </div>
                     <h3>Resource Management</h3>
                     <p>Track and manage agricultural machinery, storage units, and equipment efficiently.</p>
-                    <a href="#" class="service-link">Learn More <i class="fas fa-arrow-right"></i></a>
+                    <a href="#" class="service-link">See More</a>
                 </div>
                 <div class="service-card">
                     <div class="service-icon">
@@ -795,7 +795,7 @@
                     </div>
                     <h3>Service Requests</h3>
                     <p>Submit and track service requests with real-time status updates and notifications.</p>
-                    <a href="#" class="service-link">Learn More <i class="fas fa-arrow-right"></i></a>
+                    <a href="#" class="service-link">See More</a>
                 </div>
                 <div class="service-card">
                     <div class="service-icon">
@@ -803,7 +803,7 @@
                     </div>
                     <h3>Logistics & Scheduling</h3>
                     <p>Efficient delivery scheduling and resource allocation system for timely operations.</p>
-                    <a href="#" class="service-link">Learn More <i class="fas fa-arrow-right"></i></a>
+                    <a href="#" class="service-link">See More</a>
                 </div>
                 <div class="service-card">
                     <div class="service-icon">
@@ -811,7 +811,7 @@
                     </div>
                     <h3>Billing System</h3>
                     <p>Easy payments via mobile banking (bKash, Rocket, Nagad) or credit card.</p>
-                    <a href="#" class="service-link">Learn More <i class="fas fa-arrow-right"></i></a>
+                    <a href="#" class="service-link">See More</a>
                 </div>
                 <div class="service-card">
                     <div class="service-icon">
@@ -819,7 +819,7 @@
                     </div>
                     <h3>Analytics Dashboard</h3>
                     <p>Real-time insights and reports for better decision making and planning.</p>
-                    <a href="#" class="service-link">Learn More <i class="fas fa-arrow-right"></i></a>
+                    <a href="#" class="service-link">See More</a>
                 </div>
                 <div class="service-card">
                     <div class="service-icon">
@@ -827,7 +827,7 @@
                     </div>
                     <h3>24/7 Support</h3>
                     <p>Dedicated customer support team available round the clock for assistance.</p>
-                    <a href="#" class="service-link">Learn More <i class="fas fa-arrow-right"></i></a>
+                    <a href="#" class="service-link">See More</a>
                 </div>
             </div>
         </section>
