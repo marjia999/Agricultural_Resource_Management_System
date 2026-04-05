@@ -4,9 +4,9 @@ AgriRMS is a full-stack web application designed to manage agricultural resource
 
 ## User Roles
 
-Admin - Has access to centralized dashboard with system analytics, can manage agricultural resources (add, edit, delete), process and approve service requests, assign resources and schedule logistics, generate invoices and manage billing, and view all registered clients.
+Admin: Has access to centralized dashboard with system analytics, can manage agricultural resources (add, edit, delete), process and approve service requests, assign resources and schedule logistics, generate invoices and manage billing, and view all registered clients.
 
-Client - Can view personal dashboard, submit service requests for resources, track request status from Pending to Approved to Assigned to Completed, make payments via Card or PayPal, and update profile information.
+Client: Can view personal dashboard, submit service requests for resources, track request status from Pending to Approved to Assigned to Completed, make payments via Card or PayPal, and update profile information.
 
 ## Features
 
